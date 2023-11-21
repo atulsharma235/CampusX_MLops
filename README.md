@@ -1,2 +1,2 @@
 # CampusX_MLops
-test repository for mlops class campusX
+Starting this course anticipating MLops learning
